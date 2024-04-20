@@ -22,3 +22,7 @@ In addition, it also has a 'download_links.txt' file that provides download link
 ## Parameters
 
 In the `parameters` directory, you'll find files containing the values of search spaces used by the algorithms. These files provide the parameters necessary for configuring the search algorithms to explore different solution spaces efficiently.
+
+## Links
+
+The `links.txt` file has example clone links between Stack Overflow and the Qualitas corpus that are presented in Section 3.2 Examples of Fitness Computation.
