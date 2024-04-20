@@ -25,4 +25,8 @@ In the `parameters` directory, you'll find files containing the values of search
 
 ## Links
 
-The `links.txt` file has example clone links between Stack Overflow and the Qualitas corpus that are presented in Section 3.2 Examples of Fitness Computation.
+The `links.md` file has example clone links between Stack Overflow and the Qualitas corpus
+
+## Computational Infrastructure
+
+The `infrastructure.md` file contains a description of the infrastructure that were used to carry out our experiment.
